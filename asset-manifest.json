@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calendar-generator/static/css/main.e6c13ad2.css",
+    "main.js": "/calendar-generator/static/js/main.d16318eb.js",
+    "index.html": "/calendar-generator/index.html",
+    "main.e6c13ad2.css.map": "/calendar-generator/static/css/main.e6c13ad2.css.map",
+    "main.d16318eb.js.map": "/calendar-generator/static/js/main.d16318eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d16318eb.js"
+  ]
+}
